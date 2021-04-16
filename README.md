@@ -9,6 +9,8 @@ To my knowledge this does not expose any information that isn't already availabl
 # Installation
 Clone this repository into your WordPress plugins folder, then activate it via the WordPress dashboard.
 
+Obviously you'll need the WPGraphQL plugin installed in order to use it.
+
 # Configuration
 There's currently no configuration available from the WordPress dashboard - but the plugin is so tiny that you should be able to edit it to adjust which Avatar you want returned and sizes and so on.
 
