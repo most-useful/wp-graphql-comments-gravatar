@@ -17,3 +17,5 @@ There's currently no configuration available from the WordPress dashboard - but 
 # Issues
 I have absolutely no idea if this is the right way to do it. I've taken inspiration from the WP-GraphQL-Dad-Jokes plugin. It's likely there's some reason that the authorGravatarUrl shouldn't appear where I've put it within the schema. But it works for me. If you're a WP-GraphQL officianado and would like it changed please let me know :)
 
+# Notes
+I have not, at this point, reached out the WPGraphQL team to add this to the core of WPGraphQL developers because I need a solution now without having to wait. Ultimately it might be better if this field was available from core and there was no need for this plugin so I will drop them a line at some point.
